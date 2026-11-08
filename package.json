@@ -20,5 +20,9 @@
     "typescript": "7.0.2",
     "vite": "8.3.5",
     "wrangler": "4.152.0"
+  },
+  "allowScripts": {
+    "workerd@1.20261019.1": true,
+    "esbuild@0.28.2": true
   }
 }
